@@ -178,8 +178,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Ground
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c007133bfc096dc45bd74a75c889f9f4, type: 2}
+  m_sharedMaterial: {fileID: -8689982438950148411, guid: c007133bfc096dc45bd74a75c889f9f4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -428,8 +428,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Star
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c007133bfc096dc45bd74a75c889f9f4, type: 2}
+  m_sharedMaterial: {fileID: -8689982438950148411, guid: c007133bfc096dc45bd74a75c889f9f4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1021,8 +1021,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Link
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c007133bfc096dc45bd74a75c889f9f4, type: 2}
+  m_sharedMaterial: {fileID: -8689982438950148411, guid: c007133bfc096dc45bd74a75c889f9f4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1925,30 +1925,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1144368807}
-        m_TargetAssemblyTypeName: MigraniaURLScript, Assembly-CSharp
-        m_MethodName: StarLogoAnimation
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1144368807}
-        m_TargetAssemblyTypeName: MigraniaURLScript, Assembly-CSharp
-        m_MethodName: BackGroundSwitch
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
       - m_Target: {fileID: 1468826318}
         m_TargetAssemblyTypeName: ScenesManager, Assembly-CSharp
         m_MethodName: ChangeScene
@@ -2090,8 +2066,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Migrania
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c007133bfc096dc45bd74a75c889f9f4, type: 2}
+  m_sharedMaterial: {fileID: -8689982438950148411, guid: c007133bfc096dc45bd74a75c889f9f4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -7870,8 +7846,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Logo
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c007133bfc096dc45bd74a75c889f9f4, type: 2}
+  m_sharedMaterial: {fileID: -8689982438950148411, guid: c007133bfc096dc45bd74a75c889f9f4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -7980,12 +7956,12 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 387703009}
-  - {fileID: 1447757585}
   - {fileID: 410087041}
-  - {fileID: 1112975459}
-  - {fileID: 832575519}
+  - {fileID: 1447757585}
+  - {fileID: 1468826319}
   - {fileID: 1200126158}
   - {fileID: 361494621}
+  - {fileID: 1112975459}
+  - {fileID: 832575519}
   - {fileID: 1801001534}
   - {fileID: 724659041}
-  - {fileID: 1468826319}
